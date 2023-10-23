@@ -4,9 +4,9 @@
 
 ## GDB Basics
 
-* [Static Analysis](static-analysis.md)
-* [Stepping and Continuing](stepping.md)
-* [Viewing Data](viewing-data.md)
+* [Static Analysis](basics/static-analysis.md)
+* [Stepping and Continuing](basics/stepping.md)
+* [Viewing Data](basics/viewing-data.md)
 
 ## GEF: GDB Enhanced Features
 
