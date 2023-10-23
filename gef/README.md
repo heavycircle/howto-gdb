@@ -1,4 +1,4 @@
-# GEF Features
+# GEF: GDB Enhanced Features
 
 The GEF extension provides several features to the binary that are extremely helpful for debugging.
 
