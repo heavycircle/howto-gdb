@@ -14,7 +14,7 @@ This is what the `context` pane looks like:
 
 <div align="center">
 
-<img src="../../../.gitbook/assets/gef-context.png" alt="GEF Context Pane">
+<img src="../.gitbook/assets/gef-context.png" alt="GEF Context Pane">
 
 </div>
 
@@ -64,7 +64,7 @@ To make GEF's output more readable, you can use the `tmux-setup` command to form
 
 <div align="center">
 
-<img src="../../../.gitbook/assets/gef-tmuxsetup.png" alt="Using tmux-setup in GEF">
+<img src="../.gitbook/assets/gef-tmuxsetup.png" alt="Using tmux-setup in GEF">
 
 </div>
 

@@ -111,7 +111,7 @@ However, if we set a breakpoint, we can see the binary pause at the breakpoint:
 
 <div align="center">
 
-<img src="../../.gitbook/assets/gef-preview.png" alt="GEF Preview">
+<img src="../.gitbook/assets/gef-preview.png" alt="GEF Preview">
 
 </div>
 
@@ -189,7 +189,7 @@ GEF also previews this stack trace:
 
 <div align="center">
 
-<img src="../../.gitbook/assets/gef-stacktrace.png" alt="GEF Stack Trace">
+<img src="../.gitbook/assets/gef-stacktrace.png" alt="GEF Stack Trace">
 
 </div>
 
